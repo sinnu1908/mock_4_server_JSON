@@ -5,5 +5,11 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    { "id": 1, "todo":"learning Javascript", "status":true },
+    { "id": 2, "todo":"learning React JS", "status":false },
+    { "id": 3, "todo":"learning HTML", "status":true },
+    { "id": 4, "todo":"learning CSS", "status":true },
+    { "id": 5, "todo":"learning Node JS", "status":false }
+    ]
 }
