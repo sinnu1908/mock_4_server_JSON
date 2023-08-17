@@ -1,15 +1,11 @@
 {
+
   "users": [
-    { "id": 1, "name": "shrinivas", "city": "Basmath", "profession":"student", "state":"Maharashtra" }
+    { "id": 1, "userame": "shrinivas", "avatar": "https://tamilnaducouncil.ac.in/wp-content/uploads/2020/04/dummy-avatar.jpg", "email":"shrinivas@gmail.com", "password":"Shri@123" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "todos": [
-    { "id": 1, "todo":"learning Javascript", "status":true },
-    { "id": 2, "todo":"learning React JS", "status":false },
-    { "id": 3, "todo":"learning HTML", "status":true },
-    { "id": 4, "todo":"learning CSS", "status":true },
-    { "id": 5, "todo":"learning Node JS", "status":false }
-    ]
+
+
+  "forum": [
+    { "id": 1, "username": "shrinivas", "qTitle": "How to sort an arrya","language":"JAVASCRIPT","votes":10, "answer":5, "date":"2021-08-20" }
+  ]
 }
